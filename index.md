@@ -14,9 +14,34 @@ Freelance Web and Mobile Full Stack Developer
 
 ## Professional Experience
 
+### La Plateforme_ - Portail d'inscription
+**Full Stack Developer** *(September 2025 - October 2025)*
+- Developed a [registration portal](https://airtable-inscription-portal.vercel.app) for managing extracurricular workshop and activity registrations
+- Implemented full-stack solution with user authentication and database integration
+- Technologies: Next.js (Full Stack), Airtable API, Firebase Auth
+
+### Nick Öhlo - Portfolio Website
+**Frontend Developer** *(July 2025)*
+- Created a [static portfolio website](https://nick-ohlo.vercel.app) for illustrator and graphic designer Nick Öhlo
+- Integrated Decap CMS for content management capabilities
+- Technologies: Next.js (Static Site Generation), Decap CMS
+
+### Sébastien Mullor - Naval Architecture Portfolio
+**Frontend Developer** *(June 2025)*
+- Developed a [professional website](https://www.sebastienmullor.fr/) for naval architect Sébastien Mullor
+- Built static website with integrated content management system
+- Technologies: Static Site Generation, Decap CMS
+
+### Spill Studio / Mimem.ai
+**Full Stack Developer** *(January 2025 - March 2025)*  
+- Integrated Stripe payment solutions for platform monetization
+- Led complete redesign and rebranding of [mimem.ai](https://www.mimem.ai/) homepage
+- Enhanced user experience and platform conversion rates
+- Technologies: Stripe API, Next.js, React.js, Node.js
+
 ### OnlyChefs  
 **Full Stack Developer** *(November 2024 - December 2024)*  
-- Integrated Stripe Connect payment solutions to enable chefs to monetize premium content for their communities on [Only Chefs](https://www.onlychefs.fr/) 
+- Integrated Stripe Connect payment solutions to enable chefs to monetize premium content for their communities
 - Technologies: Stripe API, React.js, Node.js, Nest.js.
 
 ### MaCoBioS (European Project)
@@ -26,7 +51,7 @@ Freelance Web and Mobile Full Stack Developer
 
 ### Spill Studio
 **Full Stack Developer** *(June 2024 - December 2024)*
-- Built the [motio.ai](https://www.motio.ai/) web platform, a high-precision motion capture solution using a multi-camera setup.
+- Built the [mimem.ai](https://www.mimem.ai/) web platform, a high-precision motion capture solution using a multi-camera setup.
 - Simplified motion capture with no calibration or specialized hardware required.
 - Technologies: Next.js, tRPC, R3F.
 
