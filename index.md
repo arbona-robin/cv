@@ -22,7 +22,7 @@ Freelance Web and Mobile Full Stack Developer
 
 ### Nick Öhlo - Portfolio Website
 **Frontend Developer** *(July 2025)*
-- Created a [static portfolio website](https://nick-ohlo.vercel.app) for illustrator and graphic designer Nick Öhlo
+- Created a [static portfolio website](https://nickohlo.com) for illustrator and graphic designer Nick Öhlo
 - Integrated Decap CMS for content management capabilities
 - Technologies: Next.js (Static Site Generation), Decap CMS
 
