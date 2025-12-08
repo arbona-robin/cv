@@ -31,7 +31,7 @@ Freelance Full Stack Web & Mobile Developer
 - Integrated Decap CMS for content management
 - Technologies: Next.js (SSG), Decap CMS
 
-### Sébastien Mullor - Naval Architecture Portfolio
+### S. Mullor - Portfolio
 **Frontend Developer** *(June 2025)*
 - Developed a [professional website](https://www.sebastienmullor.fr/) for naval architect Sébastien Mullor
 - Built static website with integrated content management system
