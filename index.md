@@ -19,6 +19,18 @@ Fullstack Developer | Web Apps & Custom Platforms | TypeScript
 - Lead workshops for teenagers focused on programming, electronics, and robotics.
 - Guide students through hands-on projects to develop technical and problem-solving skills.
 
+### Supernulla - Creative Studio
+**Frontend Developer** *(April 2026)*
+- Integrated the creative studio's design system into a [production website](https://www.supernulla.com/).
+- Set up content management workflow for the studio's editorial team.
+- Technologies used: Next.js, Tailwind CSS, Decap CMS.
+  
+### La Disparition de Freeze Corleone - Audio Book
+**Web Developer** *(March 2026)*
+- Designed and developed an [audio book web platform](https://ladisp-audio.com/) for the release of an original work, chapter by chapter, as an alternative to streaming platforms.
+- Built a custom Web Component-based player to deliver the listening experience directly from the publisher's site.
+- Technologies used: HTML, CSS, JavaScript (Web Components).
+  
 ### Marcello - Motion Designer
 **Web Developer** *(January 2026 - February 2026)*
 - Developed a [static portfolio website](https://marcello.pages.dev/) for a motion designer, with Decap CMS integration and Cloudflare Pages deployment.
