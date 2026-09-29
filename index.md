@@ -125,12 +125,13 @@ Fullstack Developer | Web Apps & Custom Platforms | TypeScript
 **Mechanical Engineer** *(2007 - 2011)*
 
 ## Skills
-- **Frontend**: React.js, Next.js, React Native, D3.js, R3F
+- **Frontend**: React.js, Next.js, Tailwind CSS, Web Components, D3.js, R3F
+- **Mobile**: Swift, SwiftUI, React Native, WebRTC
 - **Backend**: Node.js, Nest.js, tRPC, GraphQL
-- **Languages**: TypeScript, JavaScript
-- **Tools**: Git, CI/CD, Azure Functions, Firebase
+- **Languages**: TypeScript, JavaScript, Swift
+- **Tools**: Git, CI/CD, Azure Functions, Firebase, Cloudflare Pages, Vercel
 - **Integrations**: Stripe, Airtable, Decap CMS
-- **Project Management**: Agile methodologies
+- **Project Management**: Agile methodologies, curriculum design
 
 <!-- ### Footer
 Last updated: March 2026 -->
