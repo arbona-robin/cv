@@ -14,10 +14,16 @@ Fullstack Developer | Web Apps & Custom Platforms | TypeScript
 
 ## Professional Experience
 
-### La Plateforme_ TUMO Marseille
-**Programming and Robotics Workshop Leader** *(March 2024 - Present)*
-- Lead workshops for teenagers focused on programming, electronics, and robotics.
-- Guide students through hands-on projects to develop technical and problem-solving skills.
+### La Plateforme_
+**Programming and Robotics Instructor & Curriculum Designer** *(March 2024 - Present)*
+- Design the pedagogical program of the programming and robotics track.
+- Lead workshops for teenagers on programming, electronics, and robotics through hands-on projects.
+
+### Spill Studio - Mimem.ai iOS App
+**iOS Developer** *(July 2026 - August 2026)*
+- Developed the [mimem.ai iOS companion app](https://apps.apple.com/us/app/mimem-ai-motion-capture/id6772474476), turning iPhones into synchronized motion capture cameras.
+- Implemented QR code pairing, live WebRTC streaming and 4K 60fps on-device recording.
+- Technologies used: Swift, SwiftUI, AVFoundation, WebRTC.
 
 ### Supernulla - Creative Studio
 **Frontend Developer** *(April 2026)*
